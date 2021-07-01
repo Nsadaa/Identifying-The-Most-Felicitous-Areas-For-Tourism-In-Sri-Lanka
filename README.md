@@ -7,7 +7,7 @@
 ## Introduction
 
 > This Is A Exploratory Data Analysis & Visualization Project Which Identifying The Most Felicitous Areas For Tourism In Sri Lanka Using Python & Tableau Public.
-- View Tableau Dashboards & Worksheets : [Click Here](https://github.com/Nsadaa/Identifying-The-Most-Felicitous-Areas-For-Tourism-In-Sri-Lanka/tree/main/Tableau%20Workbook).
+- View Tableau Dashboards & Worksheets : [Click Here](https://public.tableau.com/app/profile/nilshan.sadaruwan/viz/IdentifyingTheMostFelicitousAreasForTourismInSriLanka/Dashboard1).
 - Download As A HTML File : [Click Here](https://github.com/Nsadaa/Identifying-The-Most-Felicitous-Areas-For-Tourism-In-Sri-Lanka/tree/main/Converted%20To%20HTML%20File)
 
 ## Objectives 
